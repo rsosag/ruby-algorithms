@@ -1,1 +1,1 @@
-# ruby-algorithms
+# Algorithms & Datastructures
